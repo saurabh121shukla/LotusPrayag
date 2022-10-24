@@ -373,11 +373,11 @@ td {
 
 .donors {
     -webkit-transition: opacity 0.5s ease-out;
-    -webkit-animation: autoScrolling 5s linear infinite;
+    -webkit-animation: Scrolling 5s linear infinite;
     height: 20em;
 }
 
-@-webkit-keyframes autoScrolling {
+@-webkit-keyframes Scrolling {
     from {
         margin-top: 0;
     }
